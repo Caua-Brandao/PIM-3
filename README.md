@@ -13,7 +13,7 @@ Desenvolver um sistema que permita:
 - C#
 - .NET
 - Git e GitHub
-- Asta
+- Astah
 - Figma
 
 # Estrutura do projeto
